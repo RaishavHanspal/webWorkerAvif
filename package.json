@@ -1,0 +1,23 @@
+{
+  "name": "webworkeravif",
+  "version": "1.0.0",
+  "description": "A polyfill for the browsers that do not support Avif, to decode and encode to Webp.",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "avif",
+    "webp",
+    "browser",
+    "support",
+    "encode",
+    "decode"
+  ],
+  "author": "Raishav",
+  "license": "ISC",
+  "dependencies": {}
+}
